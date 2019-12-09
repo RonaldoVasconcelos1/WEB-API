@@ -1,0 +1,14 @@
+C:\Users\ronal\OneDrive\Desktop\WEB API\ApiUsuario\bin\Debug\netcoreapp2.1\ApiUsuario.deps.json
+C:\Users\ronal\OneDrive\Desktop\WEB API\ApiUsuario\bin\Debug\netcoreapp2.1\ApiUsuario.runtimeconfig.json
+C:\Users\ronal\OneDrive\Desktop\WEB API\ApiUsuario\bin\Debug\netcoreapp2.1\ApiUsuario.runtimeconfig.dev.json
+C:\Users\ronal\OneDrive\Desktop\WEB API\ApiUsuario\bin\Debug\netcoreapp2.1\ApiUsuario.dll
+C:\Users\ronal\OneDrive\Desktop\WEB API\ApiUsuario\bin\Debug\netcoreapp2.1\ApiUsuario.pdb
+C:\Users\ronal\OneDrive\Desktop\WEB API\ApiUsuario\obj\Debug\netcoreapp2.1\ApiUsuario.csprojAssemblyReference.cache
+C:\Users\ronal\OneDrive\Desktop\WEB API\ApiUsuario\obj\Debug\netcoreapp2.1\ApiUsuario.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Desktop\WEB API\ApiUsuario\obj\Debug\netcoreapp2.1\ApiUsuario.RazorAssemblyInfo.cache
+C:\Users\ronal\OneDrive\Desktop\WEB API\ApiUsuario\obj\Debug\netcoreapp2.1\ApiUsuario.RazorAssemblyInfo.cs
+C:\Users\ronal\OneDrive\Desktop\WEB API\ApiUsuario\obj\Debug\netcoreapp2.1\ApiUsuario.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Desktop\WEB API\ApiUsuario\obj\Debug\netcoreapp2.1\ApiUsuario.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Desktop\WEB API\ApiUsuario\obj\Debug\netcoreapp2.1\ApiUsuario.RazorTargetAssemblyInfo.cache
+C:\Users\ronal\OneDrive\Desktop\WEB API\ApiUsuario\obj\Debug\netcoreapp2.1\ApiUsuario.dll
+C:\Users\ronal\OneDrive\Desktop\WEB API\ApiUsuario\obj\Debug\netcoreapp2.1\ApiUsuario.pdb
